@@ -12,7 +12,7 @@ Create a new app with the following repository:
 
     /www/index.html
 
-## Run Tests
+## Run Test
 
     /www/spec.html
 
